@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://anapneokit.github.io/</loc>
+    <lastmod>2020-03-30T19:41:55-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://anapneokit.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-03-30T19:41:55-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://anapneokit.github.io/posts/</loc>
+    <lastmod>2020-03-30T19:41:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://anapneokit.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://anapneokit.github.io/tags/</loc>
   </url>
   
 </urlset>
